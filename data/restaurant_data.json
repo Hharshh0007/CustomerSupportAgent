@@ -1,0 +1,92 @@
+[
+  {
+    "restaurant_id": "R001",
+    "name": "Mario's Pizza",
+    "cuisine": "Italian",
+    "rating": 4.5,
+    "delivery_time": "30-45 min",
+    "delivery_fee": 2.99,
+    "minimum_order": 15.00,
+    "address": "100 Broadway, New York, NY 10001",
+    "phone": "+1-555-0100",
+    "hours": "11:00 AM - 11:00 PM",
+    "popular_items": ["Margherita Pizza", "Pepperoni Pizza", "Caesar Salad"],
+    "common_issues": [
+      "Late delivery during peak hours",
+      "Cold pizza complaints",
+      "Missing toppings"
+    ]
+  },
+  {
+    "restaurant_id": "R002",
+    "name": "Sushi Palace",
+    "cuisine": "Japanese",
+    "rating": 4.8,
+    "delivery_time": "25-40 min",
+    "delivery_fee": 3.99,
+    "minimum_order": 20.00,
+    "address": "200 5th Ave, New York, NY 10002",
+    "phone": "+1-555-0200",
+    "hours": "12:00 PM - 10:00 PM",
+    "popular_items": ["California Roll", "Salmon Sashimi", "Miso Soup"],
+    "common_issues": [
+      "Sushi not fresh",
+      "Wrong roll received",
+      "Missing soy sauce packets"
+    ]
+  },
+  {
+    "restaurant_id": "R003",
+    "name": "Burger King",
+    "cuisine": "American",
+    "rating": 4.2,
+    "delivery_time": "20-35 min",
+    "delivery_fee": 1.99,
+    "minimum_order": 10.00,
+    "address": "300 Times Square, New York, NY 10003",
+    "phone": "+1-555-0300",
+    "hours": "6:00 AM - 2:00 AM",
+    "popular_items": ["Whopper", "Chicken Nuggets", "French Fries"],
+    "common_issues": [
+      "Cold fries",
+      "Wrong burger modifications",
+      "Missing condiments"
+    ]
+  },
+  {
+    "restaurant_id": "R004",
+    "name": "Thai Garden",
+    "cuisine": "Thai",
+    "rating": 4.6,
+    "delivery_time": "35-50 min",
+    "delivery_fee": 2.49,
+    "minimum_order": 18.00,
+    "address": "400 Lexington Ave, New York, NY 10004",
+    "phone": "+1-555-0400",
+    "hours": "11:30 AM - 10:30 PM",
+    "popular_items": ["Pad Thai", "Tom Yum Soup", "Green Curry"],
+    "common_issues": [
+      "Too spicy/not spicy enough",
+      "Late delivery",
+      "Missing rice"
+    ]
+  },
+  {
+    "restaurant_id": "R005",
+    "name": "Subway",
+    "cuisine": "Sandwiches",
+    "rating": 4.0,
+    "delivery_time": "15-30 min",
+    "delivery_fee": 1.49,
+    "minimum_order": 8.00,
+    "address": "500 Park Ave, New York, NY 10005",
+    "phone": "+1-555-0500",
+    "hours": "7:00 AM - 11:00 PM",
+    "popular_items": ["Italian BMT", "Turkey Breast", "Veggie Delite"],
+    "common_issues": [
+      "Wrong sandwich modifications",
+      "Missing vegetables",
+      "Cold sandwich"
+    ]
+  }
+]

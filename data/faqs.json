@@ -1,0 +1,77 @@
+[
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order by going to the 'Orders' section in the app and selecting your order. You'll see real-time updates including when your order is being prepared, picked up, and delivered.",
+    "category": "order_tracking"
+  },
+  {
+    "question": "What is the estimated delivery time?",
+    "answer": "Delivery times typically range from 30-60 minutes depending on your location and restaurant preparation time. You'll see an estimated delivery time when you place your order.",
+    "category": "delivery_time"
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel your order within 5 minutes of placing it through the app. Go to 'Orders', select your order, and tap 'Cancel Order'. After 5 minutes, contact support for cancellation requests.",
+    "category": "cancellation"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards, debit cards, PayPal, Apple Pay, Google Pay, and digital wallets. Cash on delivery is also available in select areas.",
+    "category": "payment"
+  },
+  {
+    "question": "My order is late, what should I do?",
+    "answer": "If your order is running late, please check the tracking information first. If it's significantly delayed, contact our support team and we'll investigate and provide compensation if appropriate.",
+    "category": "delivery_issues"
+  },
+  {
+    "question": "How do I get a refund?",
+    "answer": "Refunds are processed for orders that are cancelled, incorrect, or significantly delayed. Contact support with your order number and reason for the refund request. Refunds are processed within 3-5 business days.",
+    "category": "refunds"
+  },
+  {
+    "question": "I received the wrong order, what should I do?",
+    "answer": "If you received the wrong order, please contact support immediately with your order number. We'll arrange for the correct order to be delivered and process a refund for the incorrect items.",
+    "category": "order_issues"
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "You can update your delivery address in the app settings under 'Account' > 'Delivery Addresses'. For active orders, contact support if the order hasn't been picked up yet.",
+    "category": "account_settings"
+  },
+  {
+    "question": "What if my food is cold or damaged?",
+    "answer": "We're sorry for the inconvenience. Please contact support with photos of the damaged food and your order number. We'll process a full refund and ensure this doesn't happen again.",
+    "category": "quality_issues"
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us through the in-app chat, email at support@fooddelivery.com, or call our 24/7 hotline at 1-800-FOOD-HELP. Average response time is under 2 minutes.",
+    "category": "contact_support"
+  },
+  {
+    "question": "Do you offer discounts or promotions?",
+    "answer": "Yes! Check our app for daily deals, first-time user discounts, and promotional codes. You can also subscribe to our newsletter for exclusive offers and early access to sales.",
+    "category": "promotions"
+  },
+  {
+    "question": "How do I rate my delivery experience?",
+    "answer": "After your order is delivered, you'll receive a notification to rate your experience. You can rate the food quality, delivery time, and driver service. Your feedback helps us improve!",
+    "category": "feedback"
+  },
+  {
+    "question": "What is included in my order summary?",
+    "answer": "Your order summary includes: order ID, restaurant name, items ordered with quantities and prices, total amount, delivery address, order time, estimated delivery time, current status, driver information (if assigned), and special instructions.",
+    "category": "order_summary"
+  },
+  {
+    "question": "How can I view my order details?",
+    "answer": "You can view your order details by providing your order ID. The system will show you a complete summary including all items, pricing, delivery status, and driver information.",
+    "category": "order_details"
+  },
+  {
+    "question": "What does order status mean?",
+    "answer": "Order status indicates where your order is in the process: 'confirmed' (order received), 'preparing' (restaurant is cooking), 'out_for_delivery' (driver is on the way), or 'delivered' (order completed).",
+    "category": "order_status"
+  }
+]

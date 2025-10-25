@@ -1,0 +1,69 @@
+{
+  "refund_policies": {
+    "automatic_refund_cases": [
+      "Order cancelled within 5 minutes",
+      "Restaurant unable to fulfill order",
+      "Driver unable to complete delivery"
+    ],
+    "manual_review_cases": [
+      "Food quality issues",
+      "Wrong order received",
+      "Significant delay (over 30 minutes)",
+      "Missing items",
+      "Damaged packaging"
+    ],
+  "refund_amounts": {
+    "full_refund": [
+      "Order cancelled before preparation",
+      "Wrong order completely",
+      "Food safety concerns",
+      "Driver never arrived"
+    ],
+    "partial_refund": [
+      "Missing items (proportional)",
+      "Minor quality issues",
+      "Late delivery (10-20% discount)",
+      "Wrong modifications"
+    ]
+  },
+  "refund_process": {
+    "timeframe": "3-5 business days",
+    "method": "Original payment method",
+    "exceptions": "Cash orders refunded as store credit"
+  },
+  "escalation_triggers": [
+    "Refund amount over $50",
+    "Customer complaint about previous refund",
+    "Food safety allegation",
+    "Driver behavior complaint"
+  ]
+},
+"cancellation_policies": {
+  "free_cancellation": "Within 5 minutes of order placement",
+  "restaurant_cancellation": "If restaurant cannot fulfill order",
+  "driver_cancellation": "If driver cannot complete delivery",
+  "late_cancellation": "Contact support for orders after 5 minutes",
+  "cancellation_fees": {
+    "none": "Within 5 minutes",
+    "partial": "After preparation starts (50% of order value)",
+    "full": "After driver pickup (100% of order value)"
+  }
+},
+"delivery_policies": {
+  "delivery_windows": {
+    "standard": "30-60 minutes",
+    "express": "15-30 minutes (additional fee)",
+    "scheduled": "Up to 7 days in advance"
+  },
+  "delivery_fees": {
+    "free_delivery": "Orders over $25",
+    "standard_fee": "$1.99-$3.99",
+    "express_fee": "$4.99-$6.99"
+  },
+  "delivery_issues": {
+    "late_delivery": "Contact support if over 15 minutes late",
+    "wrong_address": "Driver will attempt to contact customer",
+    "no_response": "Food left at door if safe, photo taken"
+  }
+}
+}
